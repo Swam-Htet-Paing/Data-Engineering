@@ -1,0 +1,4 @@
+John,8.5
+Anna,7.0
+Peter,9.0
+Mary,6.5
