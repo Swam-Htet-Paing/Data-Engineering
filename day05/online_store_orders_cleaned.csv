@@ -1,0 +1,37 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,City,Status,Total_Amount
+O001,2026-10-01,Laptop,Electronics,2.0,850.0,Yangon,Completed,1700.0
+O002,2026-10-01,Mouse,Accessories,5.0,15.5,Mandalay,Completed,77.5
+O003,2026-10-02,Keyboard,Accessories,3.0,28.0,Yangon,Pending,84.0
+O004,2026-10-02,Monitor,Electronics,1.0,220.0,Naypyidaw,Completed,220.0
+O005,2026-10-03,USB Cable,Accessories,10.0,4.5,Yangon,Completed,45.0
+O006,2026-10-03,Headphones,Electronics,2.0,45.0,Mandalay,Cancelled,90.0
+O007,2026-10-04,Laptop,Electronics,1.0,850.0,Yangon,Completed,850.0
+O008,2026-10-04,Webcam,Electronics,2.0,38.0,Bago,Pending,76.0
+O009,2026-10-05,Mouse,Accessories,0.0,15.5,Mandalay,Completed,0.0
+O010,2026-10-05,Keyboard,Accessories,4.0,28.0,Yangon,Completed,112.0
+O011,2026-10-06,Monitor,Electronics,2.0,220.0,Yangon,Completed,440.0
+O012,2026-10-06,USB Cable,Accessories,0.0,4.5,Mandalay,Completed,0.0
+O013,2026-10-07,Headphones,Electronics,1.0,45.0,Naypyidaw,Pending,45.0
+O014,2026-10-07,Webcam,Electronics,3.0,38.0,Yangon,Completed,114.0
+O015,2026-10-08,Laptop,Electronics,1.0,,Bago,Completed,
+O016,2026-10-08,Mouse,Accessories,8.0,15.5,Mandalay,Completed,124.0
+O017,2026-10-09,Keyboard,Accessories,2.0,28.0,Yangon,Completed,56.0
+O018,2026-10-09,Monitor,Electronics,1.0,220.0,Mandalay,Completed,220.0
+O019,2026-10-10,USB Cable,Accessories,12.0,4.5,Unknown,Pending,54.0
+O020,2026-10-10,Headphones,Electronics,2.0,45.0,Yangon,Completed,90.0
+O021,2026-10-11,Webcam,Electronics,1.0,38.0,Bago,Cancelled,38.0
+O022,2026-10-11,Mouse,Accessories,6.0,15.5,Mandalay,Completed,93.0
+O023,2026-10-12,Laptop,Electronics,1.0,850.0,Yangon,Completed,850.0
+O024,2026-10-12,Keyboard,Accessories,3.0,28.0,Naypyidaw,Pending,84.0
+O025,2026-10-13,Monitor,Electronics,2.0,220.0,Yangon,Completed,440.0
+O026,2026-10-13,USB Cable,Accessories,7.0,4.5,Mandalay,Completed,31.5
+O027,2026-10-14,Headphones,Electronics,0.0,45.0,Yangon,Completed,0.0
+O028,2026-10-14,Webcam,Electronics,2.0,38.0,Bago,Completed,76.0
+O029,2026-10-15,Mouse,Accessories,4.0,15.5,Mandalay,Completed,62.0
+O030,2026-10-15,Laptop,Electronics,1.0,850.0,Yangon,Completed,850.0
+O031,2026-10-15,Mouse,Accessories,5.0,15.5,Mandalay,Completed,77.5
+O032,2026-10-16,Keyboard,Accessories,2.0,28.0,Yangon,Shipped,56.0
+O033,2026-10-16,Monitor,Electronics,1.0,220.0,Naypyidaw,Completed,220.0
+O034,2026-10-17,USB Cable,Accessories,9.0,4.5,Bago,Completed,40.5
+O035,2026-10-17,Headphones,Electronics,2.0,45.0,Yangon,Completed,90.0
+O036,2026-10-07,Webcam,Electronics,3.0,38.0,Yangon,Completed,114.0

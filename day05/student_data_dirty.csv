@@ -1,0 +1,21 @@
+Student_ID,Name,Age,Gender,Class,Score,Attendance,Email,City
+S001,Aung Min,20,Male,IT01,8.5,95.0,aungmin@gmail.com,Yangon
+S002,Su Su,21,Female,IT01,7.8,88.0,susu@gmail.com,Mandalay
+S003,Ko Ko,19,Male,IT02,6.5,90.0,koko@gmail.com,Yangon
+S004,Mya Mya,20,Female,IT02,9.0,98.0,myamya@gmail.com,Naypyidaw
+S005,Hla Hla,22,Female,IT01,,85.0,hlah@gmail.com,Yangon
+S006,Thant Zin,20,Male,IT03,7.2,,thantzin@gmail.com,Mandalay
+S007,Ei Ei,21,Female,IT03,8.1,92.0,ei.ei@gmail.com,Yangon
+S008,  Kyaw Kyaw ,20,Male,IT01,7.0,80.0,kyaw@gmail.com, yangon 
+S009,Aye Aye,19,Female,IT02,10.5,96.0,ayeaye@gmail.com,Mandalay
+S010,Min Thu,-1,Male,IT02,6.8,75.0,minthu@gmail.com,Bago
+S011,Nilar,23,Female,IT03,8.7,101.0,nilar@gmail.com,Yangon
+S012,Zaw Zaw,20,M,IT01,7.5,89.0,zawzaw@gmail.com,Mandalay
+S013,Htet Htet,21,F,IT02,8.9,94.0,htethtet@gmail.com,Naypyidaw
+S014,Aung Aung,20,Male,IT03,5.5,70.0,aungaunggmail.com,Yangon
+S015,May Thu,22,Female,IT01,7.9,87.0,,Mandalay
+S016,Win Win,20,Female,IT02,6.9,82.0,winwin@gmail.com,
+S017,Htun Htun,21,Male,IT03,8.0,91.0,htun@gmail.com,Mandalay
+S018,Su Su,21,Female,IT01,7.8,88.0,susu@gmail.com,Mandalay
+S019,Pyae Phyo,20,Male,IT02,Absent,86.0,pyae@gmail.com,Yangon
+S020,Khin Khin,22,Female,IT03,8.3,93.0,khin@gmail.com,Mandalay

@@ -1,0 +1,37 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,City,Status
+O001,2026-10-01,Laptop,Electronics,2,850.0,Yangon,Completed
+O002,2026-10-01,Mouse,Accessories,5,15.5,Mandalay,Completed
+O003,2026-10-02,Keyboard,Accessories,3,28.0,Yangon,Pending
+O004,2026-10-02,Monitor,Electronics,1,220.0,Naypyidaw,Completed
+O005,2026-10-03,USB Cable,Accessories,10,4.5,Yangon,Completed
+O006,2026-10-03,Headphones,Electronics,2,45.0,Mandalay,Cancelled
+O007,2026-10-04,Laptop,Electronics,1,850.0,Yangon,Completed
+O008,2026-10-04,Webcam,Electronics,2,38.0,Bago,Pending
+O009,2026-10-05,Mouse,Accessories,,15.5,Mandalay,Completed
+O010,2026-10-05,Keyboard,Accessories,4,28.0, yangon ,Completed
+O011,2026-10-06,Monitor,Electronics,2,220.0,Yangon,Completed
+O012,2026-10-06,USB Cable,Accessories,-3,4.5,Mandalay,Completed
+O013,2026-10-07,Headphones,Electronics,1,45.0,Naypyidaw,Pending
+O014,2026-10-07,Webcam,Electronics,3,38.0,Yangon,Completed
+O015,2026-10-08,Laptop,Electronics,1,-850.0,Bago,Completed
+O016,2026-10-08,Mouse,Accessories,8,15.5,Mandalay,Completed
+O017,2026-10-09,Keyboard,Accessories,2,28.0,Yangon,complete
+O018,2026-10-09,Monitor,Electronics,1,220.0,Mandalay,Completed
+O019,2026-10-10,USB Cable,Accessories,12,4.5,,Pending
+O020,2026-10-10,Headphones,Electronics,2,45.0,Yangon,Completed
+O021,2026-10-11,Webcam,Electronics,1,38.0,Bago,Cancelled
+O022,2026-10-11,Mouse,Accessories,6,15.5,Mandalay,Completed
+O023,2026-10-12,Laptop,Electronics,1,850.0,Yangon,Completed
+O024,2026-10-12,Keyboard,Accessories,3,28.0,Naypyidaw,Pending
+O025,2026-10-13,Monitor,Electronics,2,220.0,Yangon,Completed
+O026,2026-10-13,USB Cable,Accessories,7,4.5,Mandalay,Completed
+O027,2026-10-14,Headphones,Electronics,two,45.0,Yangon,Completed
+O028,2026-10-14,Webcam,Electronics,2,38.0,Bago,Completed
+O029,2026-10-15,Mouse,Accessories,4,15.5,Mandalay,Completed
+O030,2026-10-15,Laptop,Electronics,1,850.0,Yangon,Completed
+O031,2026-10-15,Mouse,Accessories,5,15.5,Mandalay,Completed
+O032,2026-10-16,Keyboard,Accessories,2,28.0,Yangon,Shipped
+O033,2026-10-16,Monitor,Electronics,1,220.0,Naypyidaw,Completed
+O034,2026-10-17,USB Cable,Accessories,9,4.5,Bago,Completed
+O035,2026-10-17,Headphones,Electronics,2,45.0,Yangon,Completed
+O036,2026-10-07,Webcam,Electronics,3,38.0,Yangon,Completed
